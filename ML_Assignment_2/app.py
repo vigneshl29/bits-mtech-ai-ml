@@ -99,7 +99,7 @@ st.info(
 )
 
 required_features = [
-    "Marital status", "Application mode", "Application order", "Course",
+    "Marital Status", "Application mode", "Application order", "Course",
     "Daytime/evening attendance", "Previous qualification",
     "Previous qualification (grade)", "Nacionality", "Mother's qualification",
     "Father's qualification", "Mother's occupation", "Father's occupation",
